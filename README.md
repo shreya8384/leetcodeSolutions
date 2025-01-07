@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya8384/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreya8384/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shreya8384/leetcodeSolutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shreya8384/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -44,5 +45,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
