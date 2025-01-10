@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/shreya8384/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreya8384/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shreya8384/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreya8384/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreya8384/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreya8384/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/shreya8384/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
