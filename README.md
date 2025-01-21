@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shreya8384/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya8384/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/shreya8384/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shreya8384/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -42,6 +43,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shreya8384/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreya8384/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shreya8384/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shreya8384/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shreya8384/leetcodeSolutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
