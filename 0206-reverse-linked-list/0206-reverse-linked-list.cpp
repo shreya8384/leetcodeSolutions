@@ -20,16 +20,14 @@ public:
 
        return newhead;
        */
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* nxt;
-        while(curr != NULL){
-            nxt = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr= nxt;
-        }
-        return prev;
+       if(head == NULL || head->next == NULL){ //this is for one or zero node
+        return head;
+       }
+       ListNode* newhead = reverseList(head->next);
+       ListNode* front = head->next;
+       front->next = head;
+       head->next = NULL;
+       return newhead;
        /*
        ListNode* prev = NULL; 
        ListNode* curr = head;
