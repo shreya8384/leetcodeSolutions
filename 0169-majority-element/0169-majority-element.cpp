@@ -11,7 +11,17 @@ public:
     //         else count -=1;
     //     }
     //     return element;
-
+    int count = 0;
+    int element = 0;
+    for(int num:nums){
+        if(count == 0){
+            element = num;
+        }
+        if(num == element)count +=1;
+        else count -=1;
+    }
+    return element;
+/*
     unordered_map<int,int>mpp;
     for(int i=0;i<nums.size();i++){
         mpp[nums[i]]++;
@@ -22,6 +32,7 @@ public:
         }
     }
     return -1;
+    */
    /* int count = 0;
     int element = 0;
     for(int num:nums){
