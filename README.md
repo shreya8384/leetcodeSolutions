@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/shreya8384/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreya8384/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shreya8384/leetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/shreya8384/leetcodeSolutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreya8384/leetcodeSolutions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/shreya8384/leetcodeSolutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
