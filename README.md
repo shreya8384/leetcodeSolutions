@@ -111,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shreya8384/leetcodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/shreya8384/leetcodeSolutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
