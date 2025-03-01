@@ -26,6 +26,7 @@ public:
         }
         return true;
         */
+        /*
         if(s.length() != t.length())return false;
         int n = s.length();
         unordered_map<char,int>mpp;
@@ -34,6 +35,18 @@ public:
             mpp[t[i]]--;
         }
         for(auto x:mpp){
+            if(x.second)return false;
+        }
+        return true;
+        */
+        if(s.length()!=t.length())return false;
+        int n = s.length();
+        unordered_map<char,int>mp;
+        for(int i=0;i<n;i++){
+            mp[s[i]]++;
+            mp[t[i]]--;
+        }
+        for(auto x:mp){
             if(x.second)return false;
         }
         return true;
