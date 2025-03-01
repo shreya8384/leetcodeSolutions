@@ -13,7 +13,7 @@ public:
     }
 };
 */
-
+/*
 //first solution Time complexity: O(nlogn) Space complexity: O(n) by sorting
 class Solution {
 public:
@@ -29,7 +29,7 @@ public:
         return false;        
     }
 };
-
+*/
 /*
 // second solution- set Time complexity: O(n) Space complexity: O(n)
 class Solution {
@@ -46,6 +46,14 @@ public:
     }
 };
 */
+//Solution 3 - Check length Time complexity: O(n) Space complexity: O(n)
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+       unordered_set<int>numSet(nums.begin(),nums.end());
+       return numSet.size()<nums.size();       
+    }
+};
 /*
 class Solution {
 public:
