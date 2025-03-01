@@ -1,18 +1,16 @@
-/*
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int,int>mpp;
-        for(int i=0; i<nums.size();i++){
-            mpp[nums[i]]++;
-        }
-        for(auto x : mpp){
-            if(x.second >= 2)return true;
-        }
+        unordered_set<int>numSet;
+        for(int n:nums){
+            if(numSet.find(n)!= numSet.end()){
+                return true;
+            }
+            numSet.insert(n);
+        }     
         return false;
     }
 };
-*/
 /*
 //first solution Time complexity: O(nlogn) Space complexity: O(n) by sorting
 class Solution {
@@ -46,6 +44,7 @@ public:
     }
 };
 */
+/*
 //Solution 3 - Check length Time complexity: O(n) Space complexity: O(n)
 class Solution {
 public:
@@ -54,7 +53,9 @@ public:
        return numSet.size()<nums.size();       
     }
 };
+*/
 /*
+//solution using map
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
